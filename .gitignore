@@ -1,5 +1,2 @@
 # ignore folder
 __pycache__/
-
-# gitignore
-.gitignore
